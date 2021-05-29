@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/yahyacanozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="yahyacanozdemir" height="30" width="40" /></a>
-<a href="https://twitter.com/yahyacanozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="yahyacanozdemir" height="30" width="40" /></a>
+<a href="https://codepen.io/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png"></a>
+<a href="https://twitter.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a>
 <a href="https://linkedin.com/in/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
-<a href="https://stackoverflow.com/users/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
-<a href="https://instagram.com/yahyacanozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yahyacanozdemir" height="30" width="40" /></a>
-<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="yahyacanozdemir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15403630/yahya-can-%c3%96zdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
+<a href="https://instagram.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>
+<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/plasticine/100/000000/dribbble.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
