@@ -50,3 +50,11 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+<h3 align="left">My Designer Side</h3>
+<p align="left">
+<a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"></a>
+<a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-premiere-pro.png"></a>
+  
+</p>
+
+
