@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yahyacanozdemir@gmail.com**
 
-- 📄 Know about my experiences (resume)[https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing]
+- 📄 Know about my experiences [resume][https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
