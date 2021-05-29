@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Nebilsem](https://www.nebilsem.com/)
 
-- 🌱 I’m currently learning **Node.js, Linux, Computer Networks, Web Scraping,**
+- 🌱 I’m currently learning **Node.js, Linux, Computer Networks, Web Scraping...**
 
 - 💬 Ask me about **Flutter, Android and Google DSC**
 
