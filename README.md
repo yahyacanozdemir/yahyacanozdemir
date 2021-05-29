@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yahyacanozdemir@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
 <a href="https://stackoverflow.com/users/15403630/yahya-can-%c3%96zdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
 <a href="https://instagram.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>
-<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/plasticine/100/000000/dribbble.png"></a>
+<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/dribbble-old-logo.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
