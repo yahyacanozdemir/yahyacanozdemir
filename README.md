@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A prying junior mobile developer from Istanbul.</h3>
 
 - 🔭 I'm currently working at [Invio](https://www.invio.com/)
-- 
+
 - 🔭 I worked on [Nebilsem](https://www.nebilsem.com/)
 
 - 🌱 I’m currently learning **Node.js, Linux, Computer Networks, Web Scraping...**
