@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 😎, I'm Yahya Can Özdemir.</h1>
 <h3 align="center">A prying junior mobile developer from Istanbul.</h3>
 
-- 🔭 I'm currently working at [Invio](https://www.invio.com/urunlerimiz/)
+- 🔭 I'm iOS App Developer at [Invio](https://www.invio.com/urunlerimiz/)
 
-- 🔭 I worked on [Nebilsem](https://www.nebilsem.com/)
+- 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Web Scraping, Node.js, Linux, Computer Networks...**
 
