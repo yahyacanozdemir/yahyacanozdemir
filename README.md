@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 😎, I'm Yahya Can Özdemir.</h1>
-<h3 align="center">A prying iOS App Developer at [Invio](https://www.invio.com/urunlerimiz/).</h3>
+<h3 align="center">A prying iOS App Developer at [Invio](https://www.invio.com/urunlerimiz/)</h3>
 
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/)
 
