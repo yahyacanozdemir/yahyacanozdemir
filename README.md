@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 😎 I'm iOS App Developer at [Invio](https://www.invio.com/urunlerimiz)
 
-- 🔭 I'm currently working on [HOPI Project] (https://hopi.com.tr)
+- 🔭 I'm currently working on [HOPI Project](https://hopi.com.tr)
 
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/)
 
