@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 😎 I am iOS App Developer at [Invio](https://www.invio.com/urunlerimiz)
 
+- I am working on [HOPI Project] (https://hopi.com.tr)
+
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Web Scraping, Node.js, Linux, Computer Networks...**
