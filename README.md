@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 - 😎 I'm iOS App Developer at [Invio](https://www.invio.com/urunlerimiz)
 
-- 🔭 I'm currently working on [ISTEGELSIN Project](https://www.istegelsin.com)
+- 🔭 I'm currently working on [ISTEGELSIN Project](https://www.istegelsin.com) as iOS developer
 
-- 🔭 I worked on [HOPI Project](https://hopi.com.tr)
+- 👌🏻 I worked on [HOPI Project](https://hopi.com.tr) as iOS developer
 
-- 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/)
+- 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/) as flutter developer
 
 - 🌱 I’m learning **Swift, SwiftUI, Web Scraping, Node.js, Linux, Computer Networks...**
 
