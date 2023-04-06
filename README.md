@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 😎 I'm iOS App Developer at [Invio](https://www.invio.com/urunlerimiz)
 
-- 🔭 I'm currently working on [ISTEGELSIN Project](https://www.istegelsin.com) as iOS developer
+- 🔭 I'm currently working on [ISTEGELSIN Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
 
-- 👌🏻 I worked on [HOPI Project](https://hopi.com.tr) as iOS developer
+- 👌🏻 I worked on [HOPI Project](https://hopi.com.tr](https://apps.apple.com/us/app/hopi-app-of-shopping/id983886691) as iOS developer
 
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/) as flutter developer
 
