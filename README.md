@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 😎 I'm iOS App Developer
 
-- 👌🏻 I worked on [Cepte Şok E-Commerce Project]([https://apps.apple.com/tr/app/cepte-şok-kurye/id6451101761?l=tr](https://apps.apple.com/tr/app/cepte-şok/id1234494259)) as iOS developer
+- 👌🏻 I worked on [Cepte Şok E-Commerce Project](https://apps.apple.com/tr/app/cepte-şok/id1234494259) as iOS developer
 
 - 👌🏻 I worked (Solo) on [Cepte Şok Couirer Project](https://apps.apple.com/tr/app/cepte-şok-kurye/id6451101761?l=tr) as iOS developer
 
