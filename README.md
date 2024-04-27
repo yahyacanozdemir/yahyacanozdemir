@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/) as flutter developer
 
-- 💬 Ask me about **SwiftUI, Flutter, Swift, Android and Google DSC**
+- 💬 Ask me about **Swift, SnapKit, SwiftUI, Firebase, JSON, API, Flutter, Android and Google DSC**
 
 - 📫 How to reach me **yahyacanozdemir@gmail.com**
 
