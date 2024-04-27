@@ -17,14 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 , I'm Yahya Can Özdemir.</h1>
 <h3 align="center">A prying Mobile Developer from Istanbul.</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
-
 - 😎 I'm iOS App Developer
 
 - 👌🏻 I worked on [Cepte Şok E-Commerce Project]([https://apps.apple.com/tr/app/cepte-şok-kurye/id6451101761?l=tr](https://apps.apple.com/tr/app/cepte-şok/id1234494259)) as iOS developer
@@ -43,16 +35,15 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
-<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/dribbble-old-logo.png"></a>
-<a href="https://codepen.io/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png"></a>
-<a href="https://stackoverflow.com/users/15403630/yahya-can-%c3%96zdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
-<a href="https://instagram.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>
-<a href="https://twitter.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a>
 
-</p>
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<h4 align="center"> ![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> </h4>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <h3 align="left">💻 Tech Stack</h3>
 
@@ -79,6 +70,17 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-premiere-pro.png"></a>
 <a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-after-effects.png"></a>
   
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
+<a href="https://dribbble.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/dribbble-old-logo.png"></a>
+<a href="https://codepen.io/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png"></a>
+<a href="https://stackoverflow.com/users/15403630/yahya-can-%c3%96zdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
+<a href="https://instagram.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"></a>
+<a href="https://twitter.com/yahyacanozdemir" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a>
+
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
