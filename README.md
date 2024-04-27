@@ -36,11 +36,16 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing)
 
 
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<h4 align="center"> ![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> </h4>
+< align="center">📊 GitHub Stats:</h3>
+<h3 align="center">
+![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+/>
+---
+[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
