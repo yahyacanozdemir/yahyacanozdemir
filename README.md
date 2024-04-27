@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 - 😎 I'm iOS App Developer
 
+- 👌🏻 I worked on [Cepte Şok E-Commerce Project]([https://apps.apple.com/tr/app/cepte-şok-kurye/id6451101761?l=tr](https://apps.apple.com/tr/app/cepte-şok/id1234494259)) as iOS developer
 
-- 👌🏻 I worked (Solo) on  [Cepte Şok Couirer Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
+- 👌🏻 I worked (Solo) on [Cepte Şok Couirer Project](https://apps.apple.com/tr/app/cepte-şok-kurye/id6451101761?l=tr) as iOS developer
 
-- 👌🏻 I worked on [ISTEGELSIN Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
+- 👌🏻 I worked on [ISTEGELSIN E-Commerce Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
 
 - 👌🏻 I worked on [HOPI Project](https://apps.apple.com/us/app/hopi-app-of-shopping/id983886691) as iOS developer
 
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://www.swiftbysundell.com/images/discover/swiftui/icon.png) ![Snapkit](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/174/161/datas/original.jpg) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+Swift, Snapkit, SwiftUI, JSON, APIs, MapKit
 
 
 # 📊 GitHub Stats:
