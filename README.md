@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋 , I'm Yahya Can Özdemir.</h1>
 <h3 align="center">A prying Mobile Developer from Istanbul.</h3>
 
@@ -46,9 +54,16 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack</h3>
 
 <p align="left">
+
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.swiftbysundell.com/images/discover/swiftui/icon.png" alt="SwiftUI" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/174/161/datas/original.jpg" alt="SnapKit" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" alt="APIs" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/json/json-ar21.svg" alt="JSON" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/maps/maps-128x128_2x.png" alt="MapKit" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -65,20 +80,6 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-after-effects.png"></a>
   
 </p>
-
-
-
-# 💻 Tech Stack:
-Swift, Snapkit, SwiftUI, JSON, APIs, MapKit
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
