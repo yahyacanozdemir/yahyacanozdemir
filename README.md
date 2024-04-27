@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 , I'm Yahya Can Özdemir.</h1>
 <h3 align="center">A prying Mobile Developer from Istanbul.</h3>
 
-- 😎 I'm iOS App Developer at [Invio](https://www.invio.com/urunlerimiz)
+- 😎 I'm iOS App Developer
 
-- 🔭 I'm currently working on [ISTEGELSIN Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
+
+- 👌🏻 I worked (Solo) on  [Cepte Şok Couirer Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
+
+- 👌🏻 I worked on [ISTEGELSIN Project](https://apps.apple.com/us/app/i-stegelsin-online-market/id1317811457) as iOS developer
 
 - 👌🏻 I worked on [HOPI Project](https://apps.apple.com/us/app/hopi-app-of-shopping/id983886691) as iOS developer
 
 - 👌🏻 I worked on [Nebilsem](https://www.nebilsem.com/) as flutter developer
-
-- 🌱 I’m learning **Swift, SwiftUI, Web Scraping, Node.js, Linux, Computer Networks...**
 
 - 💬 Ask me about **SwiftUI, Flutter, Swift, Android and Google DSC**
 
@@ -63,5 +64,22 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/adobe-after-effects.png"></a>
   
 </p>
+
+
+
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://www.swiftbysundell.com/images/discover/swiftui/icon.png) ![Snapkit](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/174/161/datas/original.jpg) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yahyacanozdemir&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
