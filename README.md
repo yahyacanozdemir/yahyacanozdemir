@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yahyacanozdemir@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1-vRJtYvAfOkgoWrjiIkr2FjpX-Da4iyt/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://github.com/user-attachments/files/17647597/Yahya.Can.Ozdemir.CV.pdf)
 
 
 # 📊 GitHub Stats:
