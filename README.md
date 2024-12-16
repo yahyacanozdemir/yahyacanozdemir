@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences: [My Resume](https://github.com/user-attachments/files/17647597/Yahya.Can.Ozdemir.CV.pdf)
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yahyacanozdemir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yahyacanozdemir&theme=dark&hide_border=false)<br/>
