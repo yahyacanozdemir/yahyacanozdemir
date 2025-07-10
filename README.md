@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋 , I'm Yahya Can Özdemir.</h1>
-<h3 align="center">A prying Mobile Developer from Istanbul.</h3>
+<h3 align="center">A passionate iOS Developer from Istanbul.</h3>
 
-- 😎 I'm iOS App Developer
+- 😎 I'm Senior iOS Developer at [Hesap](https://hesap.com/?hsplid=Z29vZ2xlLGNwYyxicmFuZGluZ19icmFuZF9hbGxfc3JjaA&gad_source=1&gad_campaignid=22310021446&gbraid=0AAAAA-xpgteKbobm6dAzQH8wLrcDK56Rm&gclid=EAIaIQobChMInfKSvJSzjgMVadJEBx3akDbfEAAYASAAEgKjo_D_BwE)
+
+- 👌🏻 My last role was Senior iOS Developer at MisyonBank on [MyBanka App](https://mybanka.com)
 
 - 👌🏻 I worked on [Cepte Şok E-Commerce Project](https://apps.apple.com/tr/app/cepte-şok/id1234494259) as iOS developer
 
@@ -33,7 +35,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yahyacanozdemir@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://github.com/user-attachments/files/17647597/Yahya.Can.Ozdemir.CV.pdf)
+- 📄 Know about my experiences: [Yahya Can Özdemir CV.pdf](https://github.com/user-attachments/files/21171066/Yahya.Can.Ozdemir.CV.pdf)
+
 
 <!--
 # 📊 GitHub Stats:
